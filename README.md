@@ -1,4 +1,4 @@
-# NTP FOR DST
+# NTP server with timezone and DST adjustement
 This time-server can adjust the time provided to the client according to their preference and the custom daylight saving time settings. It is used for all equipment that does not have the ability to disable DST.
 
 # Notice:
